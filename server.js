@@ -8,13 +8,13 @@ const knex = require('knex');
 
 const bcrypt = require('bcrypt-nodejs');
 
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
+
 const db = knex({
     client: 'pg',
     connection: {
-        host: '127.0.0.1',
-        user: 'mangal',
-        password: 'mangal',
-        database: 'smart-brain'
+        host: process.env.DATABASE_URL,
+        ssl: true,
     }
 });
 

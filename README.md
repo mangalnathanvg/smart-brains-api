@@ -16,6 +16,14 @@ Links:
       Email: jenny@gmail.com
   
       Password: jenny
+      
+- Sample Images to use after login
+
+    https://i.redd.it/u1pnes1uaqx11.jpg
+
+    https://www.uni-regensburg.de/Fakultaeten/phil_Fak_II/Psychologie/Psy_II/beautycheck/english/prototypen/w_sexy_gr.jpg
+    
+    https://www.uni-regensburg.de/Fakultaeten/phil_Fak_II/Psychologie/Psy_II/beautycheck/english/prototypen/m_sexy_gr.jpg
 
 - Backend Server Repository: https://github.com/mangalnathanvg/smart-brains-api/
 
